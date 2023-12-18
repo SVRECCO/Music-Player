@@ -20,7 +20,7 @@
     <a href="https://github.com/SVRECCO/Music-Player"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    [View Demo](https://www.youtube.com/watch?v=ZN0oBAHGCnY){:target="_blank"}
+    <a href="https://www.youtube.com/watch?v=ZN0oBAHGCnY" target="_blank">View Demo</a>
     ·
     <a href="https://github.com/SVRECCO/Music-Player/issues">Report Bug</a>
     ·
