@@ -1,0 +1,6 @@
+D:\My Programs\Music Player\MusicPlayer.pdb
+D:\My Programs\Music Player\bass.dll
+D:\My Programs\Music Player\cimgui.dll
+D:\My Programs\Music Player\SDL2.dll
+D:\My Programs\Music Player\Bass.Net.xml
+D:\My Programs\Music Player\MusicPlayer.exe

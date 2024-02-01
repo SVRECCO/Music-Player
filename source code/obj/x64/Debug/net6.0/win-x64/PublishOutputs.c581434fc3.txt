@@ -1,0 +1,6 @@
+C:\Users\bob11\source\repos\MusicPlayer3\bin\Debug\net6.0\win-x64\app.publish\MusicPlayer3.pdb
+C:\Users\bob11\source\repos\MusicPlayer3\bin\Debug\net6.0\win-x64\app.publish\bass.dll
+C:\Users\bob11\source\repos\MusicPlayer3\bin\Debug\net6.0\win-x64\app.publish\cimgui.dll
+C:\Users\bob11\source\repos\MusicPlayer3\bin\Debug\net6.0\win-x64\app.publish\SDL2.dll
+C:\Users\bob11\source\repos\MusicPlayer3\bin\Debug\net6.0\win-x64\app.publish\Bass.Net.xml
+C:\Users\bob11\source\repos\MusicPlayer3\bin\Debug\net6.0\win-x64\app.publish\MusicPlayer3.exe
